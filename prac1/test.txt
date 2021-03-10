@@ -1,0 +1,1 @@
+write some text to it. The file will save automatically once the red-dot in the editor disappears. You can manually save using CTRL+S (or equivalent on Mac).
